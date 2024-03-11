@@ -1,0 +1,48 @@
+.hulk {
+
+    font-weight: 10;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(66, 150, 87);
+    padding: 20px 0;
+    border-style: solid;
+    text-shadow: 3px 3px rgb(0, 0, 0);
+}
+
+.miranha {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(153, 29, 44);
+    padding: 20px 0;
+    border-style: solid;
+    text-shadow: 3px 3px rgb(0, 0, 0);
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 40px 0;
+}
+
+section img {
+    border-radius: 30px;
+    width: 35em;
+    height: 35em;
+    border-radius: 30px;
+}
+
+body {
+    background-color: black;
+    margin: 0;
+    text-align: center;
+}
+
+a {
+    color: aliceblue;
+}
+
+.hulkao {  
+    transition: 0.3;
+}
+
